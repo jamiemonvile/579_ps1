@@ -1,0 +1,7 @@
+.spicy {
+  color: red;
+}
+
+.spicy::after{
+  content: " (spicy)";
+}
